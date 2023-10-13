@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: #F5F5DC;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  left: 0;
+  right: 0;
+  position: fixed;
+}
+
+.nav-list {
+  text-decoration: none;
+  margin: 0 25px;
+
+  h1 {
+      font-size: 80px;
+
+  }
+}
+.image-container12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(img/bread12.png);
+  height: 90vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.image-container12 > div {
+  height: 48%;
+}
+
+.image-container12 > div > h1 {
+  color: #716436;
+}
+.roti1{
+  height: 48%; 
+ 
+}
+.roti1 > h1 {
+  color: #716436;
+}
+.roti2{
+  height: 48%; 
+ 
+}
+.roti2 > h1 {
+  color: #716436;
+}
+
+.image-container13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(img/bread12\ \(2\).png);
+  height: 90vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+.image-container14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(img/0893.png);
+  height: 90vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.image-container14 > div {
+  height: 48%;
+}
+
+.image-container14 > div > h1 {
+  color: #716436;
+}
+.roti4{
+  height: 48%; 
+ 
+}
+.roti4 > h1 {
+  color: #716436;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  height: 313px;
+  background-color:#565647;
+}
+.kontak {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.hp {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
